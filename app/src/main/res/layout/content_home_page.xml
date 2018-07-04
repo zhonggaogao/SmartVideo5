@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".HomePageActivity"
+    tools:showIn="@layout/activity_home_page">
+
+    <ImageButton
+        android:layout_width="381dp"
+        android:layout_height="102dp"
+        android:id="@+id/ImageButton_movie"
+        android:src="@drawable/movie"
+        />
+
+    <ImageButton
+        android:layout_width="381dp"
+        android:layout_height="102dp"
+        android:id="@+id/ImageButton_series"
+        android:src="@drawable/series"
+        />
+
+    <ImageButton
+        android:layout_width="381dp"
+        android:layout_height="102dp"
+        android:id="@+id/ImageButton_documentary"
+        android:src="@drawable/documentary"
+        />
+
+    <ImageButton
+        android:layout_width="381dp"
+        android:layout_height="102dp"
+        android:id="@+id/ImageButton_sport"
+        android:src="@drawable/sport"
+        />
+
+    <ImageButton
+        android:layout_width="381dp"
+        android:layout_height="102dp"
+        android:id="@+id/ImageButton_music"
+        android:src="@drawable/music"
+        />
+
+
+</LinearLayout>

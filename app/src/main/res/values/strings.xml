@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartVideo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="title_activity_series">SeriesActivity</string>
+    <string name="title_activity_documentary">DocumentaryActivity</string>
+    <string name="title_activity_series_web_view">SeriesWebViewActivity</string>
+    <string name="title_activity_documentary_web_view">DocumentaryWebViewActivity</string>
+</resources>
